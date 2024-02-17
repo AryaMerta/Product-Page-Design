@@ -25,6 +25,62 @@ body {
     margin:0px 0px 0px 60px;
     background-color: #4C3D3D;
     width: 600px;
-    height: 400px;
+    height: 440px;
     padding: 20px;
+}
+.card p {
+    color: white;
+}
+.nameSneaker {
+    font-size: 32px;
+    font-weight: 700;
+}
+.discount {
+    color: red !important;
+    font-weight: 700;
+    font-size: 28px;
+    padding-bottom: 20px;
+}
+.price {
+    font-size: 28px;
+    font-weight: 500;
+}
+.card h2 {
+    color: red;
+}
+.text {
+    font-size: 20px;
+    font-weight: 500;
+    padding-bottom: 20px;
+}
+.size {
+    font-size: 24px;
+    font-weight: 500;
+    padding-bottom: 10px;
+}
+.color {
+    font-size: 24px;
+    font-weight: 500;
+    padding-bottom: 40px;
+}
+.cart {
+    width: 220px;
+    height: 40px;
+    background-color: white;
+    border-style: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 500;
+    margin-right: 30px;
+}
+.buy {
+    width: 220px;
+    height: 40px;
+    background-color: white;
+    border-style: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 500;
 }
